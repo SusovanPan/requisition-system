@@ -1,0 +1,44 @@
+html,body{
+  height: 100%;
+  width:100%;
+  margin :0;
+}
+.header_div{
+  height:10%;
+  width:100%;
+  text-align: center;
+}
+.main_div{
+  height:80%;
+  width:100%;
+  align-items: center;
+}
+.footer_div{
+  height:10%;
+  width:100%;
+  text-align: center;
+}
+td{
+  text-align: center;
+}
+.slno{
+  width:10%;
+}
+.item{
+  width:20%;
+}
+.spec{
+  width:20%;
+}
+.totalqty{
+  width:5%;
+}
+.stock{
+  width:5%;
+}
+.new_add{
+  width:10%;
+}
+.just{
+  width:10%;
+}
